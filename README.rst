@@ -1,3 +1,5 @@
+* This repository is unmaintained. Please check https://github.com/gisce/iec870ree
+
 reeprotocol
 ###########
 
